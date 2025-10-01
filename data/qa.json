@@ -1,0 +1,202 @@
+[
+    {
+    "question": "Co to jest stopa procentowa referencyjna i jaka jest jej funkcja?",
+    "answer": "Stopa procentowa referencyjna to podstawowa stopa procentowa ustalana przez bank centralny (np. NBP w Polsce). Służy ona jako punkt odniesienia dla stóp procentowych na rynku międzybankowym, wpływając na oprocentowanie kredytów i lokat, a tym samym na całą gospodarkę."
+    },
+    {
+    "question": "Czym różni się obligacja od akcji?",
+    "answer": "Obligacja to dłużny papier wartościowy, który reprezentuje pożyczkę, jaką emitent (np. państwo lub firma) zaciąga u inwestora. Właściciel obligacji jest wierzycielem i otrzymuje regularne odsetki. Akcja to natomiast udział w kapitale spółki. Właściciel akcji jest jej współwłaścicielem i ma prawo do dywidendy oraz udziału w zyskach."
+    },
+    {
+    "question": "Co to jest inflacja i jakie są jej główne typy?",
+    "answer": "Inflacja to wzrost ogólnego poziomu cen dóbr i usług w gospodarce. Skutkuje to spadkiem siły nabywczej pieniądza. Główne typy to inflacja popytowa (spowodowana nadmiernym popytem) i inflacja kosztowa (spowodowana wzrostem kosztów produkcji)."
+    },
+    {
+    "question": "Jakie są główne cele polityki pieniężnej banku centralnego?",
+    "answer": "Głównym celem polityki pieniężnej jest utrzymanie stabilności cen, czyli kontrolowanie inflacji. Inne cele to wspieranie wzrostu gospodarczego, stabilizacja kursu walutowego i zapewnienie stabilności systemu finansowego."
+    },
+    {
+    "question": "Co to jest PKB (Produkt Krajowy Brutto)?",
+    "answer": "PKB to miara całkowitej wartości rynkowej wszystkich finalnych dóbr i usług wyprodukowanych w danym kraju w określonym czasie (zazwyczaj roku lub kwartale). Służy jako kluczowy wskaźnik zdrowia i wielkości gospodarki."
+    },
+    {
+    "question": "Czym charakteryzuje się rynek kapitałowy?",
+    "answer": "Rynek kapitałowy to miejsce, gdzie zawierane są transakcje finansowe dotyczące długoterminowych instrumentów finansowych, takich jak akcje i obligacje. Umożliwia pozyskiwanie kapitału na inwestycje przez firmy oraz inwestowanie oszczędności przez podmioty indywidualne i instytucjonalne."
+    },
+    {
+    "question": "Co to jest dywersyfikacja portfela inwestycyjnego?",
+    "answer": "Dywersyfikacja to strategia inwestycyjna polegająca na rozłożeniu inwestycji na różne aktywa (np. akcje, obligacje, nieruchomości, surowce), aby zmniejszyć ryzyko. Dzięki temu, jeśli jedna część portfela straci na wartości, inne mogą zyskać lub utrzymać swoją wartość."
+    },
+    {
+    "question": "W jaki sposób można zmierzyć ryzyko inwestycyjne?",
+    "answer": "Ryzyko inwestycyjne można mierzyć za pomocą różnych wskaźników statystycznych, takich jak odchylenie standardowe (mierzy zmienność cen aktywów) czy beta (mierzy wrażliwość ceny aktywa na zmiany na rynku)."
+    },
+    {
+    "question": "Co to jest stopa zwrotu z inwestycji (ROI)?",
+    "answer": "Stopa zwrotu z inwestycji (ROI - Return on Investment) to wskaźnik efektywności inwestycji, który oblicza zysk lub stratę w stosunku do kosztów inwestycji. Jest wyrażana w procentach i służy do oceny opłacalności danego przedsięwzięcia."
+    },
+    {
+    "question": "Co to jest fundusz inwestycyjny?",
+    "answer": "Fundusz inwestycyjny to podmiot, który zbiera środki od wielu inwestorów i inwestuje je w różnorodne aktywa finansowe (akcje, obligacje, nieruchomości). Jest to forma zbiorowego inwestowania, zarządzana przez profesjonalistów."
+    },
+    {
+    "question": "Jakie są główne rodzaje kredytów?",
+    "answer": "Główne rodzaje kredytów to: kredyty hipoteczne (zabezpieczone nieruchomością), kredyty konsumpcyjne (na bieżące potrzeby), kredyty samochodowe, kredyty odnawialne oraz kredyty dla przedsiębiorstw."
+    },
+    {
+    "question": "Co to jest cykl koniunkturalny?",
+    "answer": "Cykl koniunkturalny to powtarzające się, choć nieregularne, fluktuacje aktywności gospodarczej. Składa się z czterech faz: ożywienia, szczytu, spowolnienia i recesji."
+    },
+    {
+    "question": "Jakie są korzyści i wady inwestowania w kryptowaluty?",
+    "answer": "Korzyści to potencjalnie wysoka stopa zwrotu i innowacyjność. Wady to ekstremalna zmienność cen, brak regulacji, ryzyko utraty środków (np. w wyniku ataku hakerów) oraz skomplikowana technologia."
+    },
+    {
+    "question": "Czym charakteryzują się rynki wschodzące?",
+    "answer": "Rynki wschodzące (emerging markets) to gospodarki krajów rozwijających się, które charakteryzują się wysokim potencjałem wzrostu, ale także większym ryzykiem politycznym i ekonomicznym w porównaniu do rynków rozwiniętych."
+    },
+    {
+    "question": "Co to jest wskaźnik cena do zysku (P/E)?",
+    "answer": "Wskaźnik cena do zysku (P/E - Price to Earnings) to kluczowy wskaźnik wyceny akcji. Oblicza się go, dzieląc bieżącą cenę akcji przez zysk na jedną akcję. Służy do oceny, czy akcja jest niedowartościowana, czy przewartościowana."
+    },
+    {
+    "question": "Jakie są podstawowe funkcje pieniądza?",
+    "answer": "Pieniądz pełni trzy podstawowe funkcje: środek wymiany (ułatwia transakcje), jednostka rozliczeniowa (pozwala na wycenę dóbr i usług) oraz środek przechowywania wartości (umożliwia gromadzenie majątku)."
+    },
+    {
+    "question": "Co to jest giełda papierów wartościowych?",
+    "answer": "Giełda to zorganizowany rynek, na którym handluje się różnymi instrumentami finansowymi, takimi jak akcje, obligacje czy instrumenty pochodne. Jest to kluczowy element rynku kapitałowego, umożliwiający firmom pozyskanie kapitału, a inwestorom zakup i sprzedaż papierów wartościowych."
+    },
+    {
+    "question": "Jakie są główne różnice między rynkiem pierwotnym a wtórnym?",
+    "answer": "Rynek pierwotny to miejsce, gdzie po raz pierwszy sprzedawane są nowe instrumenty finansowe (np. IPO - pierwsza oferta publiczna). Rynek wtórny to miejsce, gdzie handluje się już istniejącymi papierami wartościowymi między inwestorami."
+    },
+    {
+    "question": "Co to jest portfel inwestycyjny?",
+    "answer": "Portfel inwestycyjny to zbiór różnych aktywów finansowych (np. akcji, obligacji, funduszy inwestycyjnych, nieruchomości), które należą do jednego inwestora. Jego skład jest dopasowany do celów, horyzontu czasowego i tolerancji ryzyka inwestora."
+    },
+    {
+    "question": "Jakie są główne zagrożenia dla stabilności systemu finansowego?",
+    "answer": "Główne zagrożenia to: kryzysy bankowe, niestabilność na rynkach kapitałowych, bańki spekulacyjne, nadmierne zadłużenie (publiczne i prywatne) oraz systemowe ryzyko, które wynika z wzajemnych powiązań instytucji finansowych."
+    },
+    {
+    "question": "Co to jest budżet państwa?",
+    "answer": "Budżet państwa to plan finansowy, który przedstawia prognozowane dochody i wydatki rządu na dany rok. Jego głównym celem jest finansowanie funkcji państwa, takich jak edukacja, służba zdrowia czy obronność."
+    },
+    {
+    "question": "Co to jest luka budżetowa?",
+    "answer": "Luka budżetowa (deficyt budżetowy) występuje, gdy wydatki państwa w danym okresie przewyższają jego dochody. Jest ona finansowana zazwyczaj poprzez zaciąganie długu (np. emisję obligacji)."
+    },
+    {
+    "question": "Co to jest system finansowy?",
+    "answer": "System finansowy to zbiór instytucji, rynków i instrumentów finansowych, które umożliwiają przepływ kapitału od podmiotów posiadających nadwyżki finansowe do podmiotów potrzebujących kapitału na inwestycje."
+    },
+    {
+    "question": "Czym różni się stopa inflacji od stopy bezrobocia?",
+    "answer": "Stopa inflacji mierzy tempo wzrostu cen, natomiast stopa bezrobocia mierzy odsetek osób w wieku produkcyjnym, które są zdolne i gotowe do pracy, ale jej nie znajdują. Oba wskaźniki są kluczowe dla oceny kondycji gospodarki."
+    },
+    {
+    "question": "Co to jest kryzys finansowy?",
+    "answer": "Kryzys finansowy to gwałtowny i poważny spadek wartości aktywów finansowych oraz utrata zaufania do systemu finansowego. Często prowadzi do recesji gospodarczej i upadku instytucji finansowych."
+    },
+    {
+        "question": "Czym jest dywersyfikacja portfela inwestycyjnego?",
+        "answer": "Dywersyfikacja polega na rozłożeniu inwestycji na różne aktywa w celu zmniejszenia ryzyka. Gdy jeden składnik portfela traci na wartości, inne mogą zyskać, co stabilizuje ogólny wynik inwestycji."
+    },
+    {
+        "question": "Jak działa stopa procentowa?",
+        "answer": "Stopa procentowa to koszt pożyczania kapitału lub zysk z jego udzielenia, wyrażony procentowo. Ma wpływ na kredyty, lokaty, inwestycje i ogólną aktywność gospodarczą."
+    },
+    {
+        "question": "Co to jest EBITDA?",
+        "answer": "EBITDA (zysk przed odsetkami, podatkami, deprecjacją i amortyzacją) to wskaźnik rentowności operacyjnej, wykorzystywany do oceny zdolności firmy do generowania zysków z działalności podstawowej."
+    },
+    {
+        "question": "Jak oblicza się ROI (Return on Investment)?",
+        "answer": "ROI = (Zysk z inwestycji – Koszt inwestycji) / Koszt inwestycji. Wskaźnik ten pokazuje efektywność inwestycji."
+    },
+    {
+        "question": "Na czym polega analiza fundamentalna?",
+        "answer": "Analiza fundamentalna polega na ocenie kondycji finansowej przedsiębiorstwa, jego otoczenia rynkowego i gospodarki w celu oszacowania realnej wartości jego akcji."
+    },
+    {
+        "question": "Czym jest indeks giełdowy?",
+        "answer": "Indeks giełdowy to wskaźnik przedstawiający zmiany cen wybranej grupy akcji, obrazujący sytuację na danym rynku lub w danym sektorze."
+    },
+    {
+        "question": "Jakie są główne typy ryzyka inwestycyjnego?",
+        "answer": "Do głównych typów należą ryzyko rynkowe, kredytowe, płynności, operacyjne, walutowe i stopy procentowej."
+    },
+    {
+        "question": "Czym jest inflacja i jak wpływa na oszczędności?",
+        "answer": "Inflacja to wzrost ogólnego poziomu cen, który obniża siłę nabywczą pieniądza. Jeśli stopa inflacji przewyższa oprocentowanie lokat, realna wartość oszczędności maleje."
+    },
+    {
+        "question": "Na czym polega rebalansowanie portfela inwestycyjnego?",
+        "answer": "Rebalansowanie to okresowe przywracanie założonych proporcji aktywów w portfelu poprzez kupno lub sprzedaż instrumentów."
+    },
+    {
+        "question": "Co to jest wskaźnik P/E?",
+        "answer": "P/E (price-to-earnings) to stosunek ceny akcji do zysku na akcję, wykorzystywany do oceny wyceny spółki na tle rynku."
+    },
+    {
+        "question": "Jak działa kredyt hipoteczny?",
+        "answer": "Kredyt hipoteczny to długoterminowe zobowiązanie zabezpieczone hipoteką na nieruchomości, spłacane w ratach z odsetkami przez kilkanaście lub kilkadziesiąt lat."
+    },
+    {
+        "question": "Czym są obligacje i jak działają?",
+        "answer": "Obligacje to dłużne papiery wartościowe, w których emitent zobowiązuje się do spłaty kapitału i odsetek w określonych terminach."
+    },
+    {
+        "question": "Co oznacza płynność finansowa przedsiębiorstwa?",
+        "answer": "Płynność finansowa to zdolność firmy do regulowania bieżących zobowiązań przy pomocy dostępnych środków."
+    },
+    {
+        "question": "Jak działa efekt dźwigni finansowej?",
+        "answer": "Efekt dźwigni polega na wykorzystaniu kapitału obcego (np. kredytów) w celu zwiększenia potencjalnego zwrotu z kapitału własnego."
+    },
+    {
+        "question": "Czym są fundusze ETF?",
+        "answer": "ETF (Exchange-Traded Funds) to fundusze notowane na giełdzie, które odwzorowują zachowanie konkretnego indeksu, surowca lub innego aktywa."
+    },
+    {
+        "question": "Jakie są różnice między rachunkiem maklerskim a kontem oszczędnościowym?",
+        "answer": "Rachunek maklerski służy do handlu papierami wartościowymi, natomiast konto oszczędnościowe umożliwia bezpieczne gromadzenie środków z niewielkim oprocentowaniem."
+    },
+    {
+        "question": "Na czym polega podatek Belki?",
+        "answer": "To 19% podatek od zysków kapitałowych, takich jak odsetki, dywidendy, zyski z giełdy, wprowadzony przez ministra finansów Marka Belkę."
+    },
+    {
+        "question": "Co to jest benchmark inwestycyjny?",
+        "answer": "Benchmark to punkt odniesienia (np. indeks giełdowy), względem którego mierzy się wyniki portfela inwestycyjnego."
+    },
+    {
+        "question": "Czym różni się analiza techniczna od fundamentalnej?",
+        "answer": "Analiza techniczna opiera się na wykresach i danych historycznych cen, a fundamentalna na analizie finansów firmy i otoczenia rynkowego."
+    },
+    {
+        "question": "Co to jest marża brutto?",
+        "answer": "Marża brutto to różnica między przychodami ze sprzedaży a kosztami bezpośrednimi, wyrażona jako procent przychodów. Pokazuje zyskowność podstawowej działalności."
+    },
+    {
+        "question": "Jak działa lokata terminowa?",
+        "answer": "Lokata terminowa to produkt bankowy, gdzie klient deponuje środki na określony czas i otrzymuje odsetki zgodnie z ustaloną stopą procentową."
+    },
+    {
+        "question": "Co oznacza stopa zwrotu z aktywów (ROA)?",
+        "answer": "ROA = Zysk netto / Aktywa ogółem. Pokazuje efektywność wykorzystania aktywów w generowaniu zysków."
+    },
+    {
+        "question": "Jakie czynniki wpływają na wycenę spółki?",
+        "answer": "Wycena zależy od wyników finansowych, perspektyw wzrostu, sektora, otoczenia makroekonomicznego i nastrojów inwestorów."
+    },
+    {
+        "question": "Czym jest dług publiczny?",
+        "answer": "Dług publiczny to suma zobowiązań państwa wynikających z zaciągniętych pożyczek i emisji obligacji w celu finansowania deficytu budżetowego."
+    },
+    {
+        "question": "Na czym polega hedging?",
+        "answer": "Hedging to strategia zabezpieczania się przed ryzykiem rynkowym poprzez zawieranie transakcji odwrotnych do pozycji bazowych, np. z użyciem kontraktów terminowych."
+    }
+]
