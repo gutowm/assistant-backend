@@ -72,7 +72,7 @@ origins = [
 
 server.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,  # Or ["*"] to allow all origins
+    allow_origins=["*"],  # Or origins to allow only some origins
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
