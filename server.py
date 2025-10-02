@@ -85,14 +85,14 @@ class Question(BaseModel):
 def root(data: Question):
     
     # expeeriment with langgraph
-    print(graph.invoke({"messages": [HumanMessage(content=data.text)]}))
+#    print(graph.invoke({"messages": [HumanMessage(content=data.text)]}))
 #    return {"text": "Have a nice day"}
-    return {"text": graph.invoke({"messages": [HumanMessage(content=data.text)]})['messages'][-1].content}
+#    return {"text": graph.invoke({"messages": [HumanMessage(content=data.text)]})['messages'][-1].content}
     
     # call OpenAI
     client = openai.OpenAI(
-        api_key=api_key,
-        base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
+#        api_key=api_key,
+        base_url="http://10.128.1.98:8000"
         )
 
     messages = [
@@ -103,7 +103,7 @@ def root(data: Question):
     # Call the API to get a completion.
     try:
         response = client.chat.completions.create(
-            model="gemini-2.5-flash-lite",
+            model="speakleash/bielik-11b-v2.3-instruct",
             messages=messages
         )
     except Exception as e:
