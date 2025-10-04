@@ -50,9 +50,6 @@ try:
 except Exception as e:
     print(f"Collection {CHROMADB_COLLECTION} does not exist.")
 
-client.persist()
-client.close
-
 # Connect to the existing ChromaDB
 from langchain_community.vectorstores import Chroma
 
