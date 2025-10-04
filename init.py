@@ -47,7 +47,7 @@ for collection in client.list_collections():
 try:
     client.delete_collection(name=CHROMADB_COLLECTION)
     print(f"Collection {CHROMADB_COLLECTION} deleted.")
-finally:
+except Exception as e:
     print(f"Collection {CHROMADB_COLLECTION} does not exist.")
 
 client.persist()
