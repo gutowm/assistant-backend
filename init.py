@@ -1,8 +1,9 @@
 # get environment variables
 import os
 EMBEDDINGS_ENDPOINT = os.getenv('EMBEDDINGS_ENDPOINT')
-QA_FILE = os.getenv('QA_FILE')
 CHROMADB_COLLECTION = os.getenv('CHROMADB_COLLECTION')
+QA_FILE = os.getenv('QA_FILE')
+DB_FILE = os.getenv('DB_FILE')
 
 # import QA (json format)
 from langchain_community.document_loaders import JSONLoader
