@@ -44,7 +44,7 @@ for collection in client.list_collections():
 
 # delete existing collection
 try:
-    client.delete_collection(name=)
+    client.delete_collection(name=CHROMADB_COLLECTION)
     print(f"Collection {CHROMADB_COLLECTION} deleted.")
 finally:
     print(f"Collection {CHROMADB_COLLECTION} does not exist.")
