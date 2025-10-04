@@ -91,19 +91,19 @@ def root(data: Question):
     
     # call OpenAI
     client = openai.OpenAI(
-#        api_key=api_key,
-        base_url="http://10.128.1.98:8000"
+        api_key=api_key,
+        base_url="http://172.30.32.241:8000/v1"
         )
 
     messages = [
-        {"role": "system", "content": "You are a helpful assistant."},
+        {"role": "system", "content": "Jesteś pomocnym asystentem"},
         {"role": "user", "content": data.text}
     ]
 
     # Call the API to get a completion.
     try:
         response = client.chat.completions.create(
-            model="speakleash/bielik-11b-v2.3-instruct",
+            model="speakleash/Bielik-4.5B-v3.0-Instruct",
             messages=messages
         )
     except Exception as e:
